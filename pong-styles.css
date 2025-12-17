@@ -16,8 +16,8 @@ body {
   border: 5px solid black;
   overflow: hidden;
 }
-}
-game-bg {
+
+#game-bg {
   position: absolute;
   inset: 0;
 
