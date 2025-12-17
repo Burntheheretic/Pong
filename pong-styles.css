@@ -21,7 +21,7 @@ game-bg {
   position: absolute;
   inset: 0;
 
-  background-image: url("./paper.gif.jpg");
+  background-image: url("paper.gif.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
