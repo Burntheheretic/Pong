@@ -43,13 +43,13 @@ export var soundArray = []; //list of sounds loaded
 
 //Here is where all the Sound File Players Start
 
-export var wallSound = new soundFile("silence.mp3"); //load sound
+export var wallSound = new soundFile("submarine-sonar-386154 (1).mp3"); //load sound
 soundArray.push(wallSound); //add sound to list of sounds
 
 export var paddleSound = new soundFile("submarine-sonar-386154 (1).mp3");
 soundArray.push(paddleSound);
 
-export var scoreSound = new soundFile("silence.mp3");
+export var scoreSound = new soundFile("whale-song-382729.mp3");
 soundArray.push(scoreSound);
 
 export var ambientSound = new soundFile("underwater-ambience-376890.mp3");
